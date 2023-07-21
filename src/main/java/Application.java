@@ -12,7 +12,7 @@ public class Application {
 
         System.out.println("Here's what Lab.copy returns when provided the value \"repeat after me\"");
         String val1 = "repeat after me";
-        String output1 = parrot.copy(val1);
+        String output1 = parrot.copy(val1);  
         System.out.println(output1);
 
         System.out.println("Here's what Lab.copy returns when provided the value \"hello\"");
